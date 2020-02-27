@@ -1,0 +1,7 @@
+韩昊 2019102935
+专业：计算机技术	
+方向:目标检测
+应用：
+1.Python 使用Opencv实现目标检测与识别
+2.python 使用tensorflow实现目标检测与识别
+3.R-CNN系列，包括R-CNN，Fast R-CNN，以及Faster R-CNN
